@@ -1,0 +1,9 @@
+.size {
+    padding: 20px;
+    width: 65rem;
+    text-align: center;
+  }
+  
+  .estilo{
+    display: flex; flex-direction:row;
+  }
